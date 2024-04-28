@@ -2,9 +2,8 @@
   "name": "chess-console",
   "version": "6.11.1",
   "description": "ES6 Module for playing chess",
-  "browser": "index.html",
-  "type": "module",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
